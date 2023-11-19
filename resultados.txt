@@ -1,0 +1,639 @@
+Autumn SALE
+
+
+
+Refactoring
+Techniques
+Moving Features between Objects
+Inline Class
+Move Field
+Move Method
+Your browser does not support HTML video.
+Let's see…
+Inline Class
+Extract Subclass
+Replace Data Value with Object
+Duplicate Code
+Large Class
+Divergent Change
+Data Clumps
+Primitive Obsession
+Temporary Field
+Inappropriate Intimacy
+Inline Class
+Move Field
+
+Learn more…
+
+Premium Content
+Design Patterns eBook
+Refactoring Course
+Refactoring
+What is Refactoring
+Clean code
+Technical debt
+When to refactor
+How to refactor
+Catalog
+Code Smells
+Bloaters
+Long Method
+Large Class
+Primitive Obsession
+Long Parameter List
+Data Clumps
+Object-Orientation Abusers
+Switch Statements
+Temporary Field
+Refused Bequest
+Alternative Classes with Different Interfaces
+Change Preventers
+Divergent Change
+Shotgun Surgery
+Parallel Inheritance Hierarchies
+Dispensables
+Comments
+Duplicate Code
+Lazy Class
+Data Class
+Dead Code
+Speculative Generality
+Couplers
+Feature Envy
+Inappropriate Intimacy
+Message Chains
+Middle Man
+Other Smells
+Incomplete Library Class
+Refactorings
+Composing Methods
+Extract Method
+Inline Method
+Extract Variable
+Inline Temp
+Replace Temp with Query
+Split Temporary Variable
+Remove Assignments to Parameters
+Replace Method with Method Object
+Substitute Algorithm
+Moving Features between Objects
+Move Method
+Move Field
+Extract Class
+Inline Class
+Hide Delegate
+Remove Middle Man
+Introduce Foreign Method
+Introduce Local Extension
+Organizing Data
+Self Encapsulate Field
+Replace Data Value with Object
+Change Value to Reference
+Change Reference to Value
+Replace Array with Object
+Duplicate Observed Data
+Change Unidirectional Association to Bidirectional
+Change Bidirectional Association to Unidirectional
+Replace Magic Number with Symbolic Constant
+Encapsulate Field
+Encapsulate Collection
+Replace Type Code with Class
+Replace Type Code with Subclasses
+Replace Type Code with State/Strategy
+Replace Subclass with Fields
+Simplifying Conditional Expressions
+Decompose Conditional
+Consolidate Conditional Expression
+Consolidate Duplicate Conditional Fragments
+Remove Control Flag
+Replace Nested Conditional with Guard Clauses
+Replace Conditional with Polymorphism
+Introduce Null Object
+Introduce Assertion
+Simplifying Method Calls
+Rename Method
+Add Parameter
+Remove Parameter
+Separate Query from Modifier
+Parameterize Method
+Replace Parameter with Explicit Methods
+Preserve Whole Object
+Replace Parameter with Method Call
+Introduce Parameter Object
+Remove Setting Method
+Hide Method
+Replace Constructor with Factory Method
+Replace Error Code with Exception
+Replace Exception with Test
+Dealing with Generalization
+Pull Up Field
+Pull Up Method
+Pull Up Constructor Body
+Push Down Method
+Push Down Field
+Extract Subclass
+Extract Superclass
+Extract Interface
+Collapse Hierarchy
+Form Template Method
+Replace Inheritance with Delegation
+Replace Delegation with Inheritance
+Design Patterns
+What is a Pattern
+What's a design pattern?
+History of patterns
+Why should I learn patterns?
+Criticism of patterns
+Classification of patterns
+Catalog
+Creational Patterns
+Factory Method
+Abstract Factory
+Builder
+Prototype
+Singleton
+Structural Patterns
+Adapter
+Bridge
+Composite
+Decorator
+Facade
+Flyweight
+Proxy
+Behavioral Patterns
+Chain of Responsibility
+Command
+Iterator
+Mediator
+Memento
+Observer
+State
+Strategy
+Template Method
+Visitor
+Code Examples
+C#
+C++
+Go
+Java
+PHP
+Python
+Ruby
+Rust
+Swift
+TypeScript
+Log in
+Contact us
+
+Shop Now!
+English
+Español
+Français
+日本語
+한국어
+Polski
+Português Brasileiro
+Русский
+Українська
+中文
+Contact us
+Log in
+Home
+Refactoring
+Design Patterns
+Premium Content
+Forum
+Contact us
+
+
+
+Refactoring.Guru
+Dmitry Zhart
+Terms & Conditions
+Privacy Policy
+Content Usage Policy
+About us
+Autumn SALE
+
+
+
+Refactoring
+Techniques
+Dealing with Generalization
+Extract Interface
+Extract Superclass
+Extract Interface
+Duplicate Code
+Extract Class
+Extract Superclass
+Your browser does not support HTML video.
+Let's see…
+Extract Superclass
+Collapse Hierarchy
+Extract Superclass
+
+Learn more…
+
+Premium Content
+Design Patterns eBook
+Refactoring Course
+Refactoring
+What is Refactoring
+Clean code
+Technical debt
+When to refactor
+How to refactor
+Catalog
+Code Smells
+Bloaters
+Long Method
+Large Class
+Primitive Obsession
+Long Parameter List
+Data Clumps
+Object-Orientation Abusers
+Switch Statements
+Temporary Field
+Refused Bequest
+Alternative Classes with Different Interfaces
+Change Preventers
+Divergent Change
+Shotgun Surgery
+Parallel Inheritance Hierarchies
+Dispensables
+Comments
+Duplicate Code
+Lazy Class
+Data Class
+Dead Code
+Speculative Generality
+Couplers
+Feature Envy
+Inappropriate Intimacy
+Message Chains
+Middle Man
+Other Smells
+Incomplete Library Class
+Refactorings
+Composing Methods
+Extract Method
+Inline Method
+Extract Variable
+Inline Temp
+Replace Temp with Query
+Split Temporary Variable
+Remove Assignments to Parameters
+Replace Method with Method Object
+Substitute Algorithm
+Moving Features between Objects
+Move Method
+Move Field
+Extract Class
+Inline Class
+Hide Delegate
+Remove Middle Man
+Introduce Foreign Method
+Introduce Local Extension
+Organizing Data
+Self Encapsulate Field
+Replace Data Value with Object
+Change Value to Reference
+Change Reference to Value
+Replace Array with Object
+Duplicate Observed Data
+Change Unidirectional Association to Bidirectional
+Change Bidirectional Association to Unidirectional
+Replace Magic Number with Symbolic Constant
+Encapsulate Field
+Encapsulate Collection
+Replace Type Code with Class
+Replace Type Code with Subclasses
+Replace Type Code with State/Strategy
+Replace Subclass with Fields
+Simplifying Conditional Expressions
+Decompose Conditional
+Consolidate Conditional Expression
+Consolidate Duplicate Conditional Fragments
+Remove Control Flag
+Replace Nested Conditional with Guard Clauses
+Replace Conditional with Polymorphism
+Introduce Null Object
+Introduce Assertion
+Simplifying Method Calls
+Rename Method
+Add Parameter
+Remove Parameter
+Separate Query from Modifier
+Parameterize Method
+Replace Parameter with Explicit Methods
+Preserve Whole Object
+Replace Parameter with Method Call
+Introduce Parameter Object
+Remove Setting Method
+Hide Method
+Replace Constructor with Factory Method
+Replace Error Code with Exception
+Replace Exception with Test
+Dealing with Generalization
+Pull Up Field
+Pull Up Method
+Pull Up Constructor Body
+Push Down Method
+Push Down Field
+Extract Subclass
+Extract Superclass
+Extract Interface
+Collapse Hierarchy
+Form Template Method
+Replace Inheritance with Delegation
+Replace Delegation with Inheritance
+Design Patterns
+What is a Pattern
+What's a design pattern?
+History of patterns
+Why should I learn patterns?
+Criticism of patterns
+Classification of patterns
+Catalog
+Creational Patterns
+Factory Method
+Abstract Factory
+Builder
+Prototype
+Singleton
+Structural Patterns
+Adapter
+Bridge
+Composite
+Decorator
+Facade
+Flyweight
+Proxy
+Behavioral Patterns
+Chain of Responsibility
+Command
+Iterator
+Mediator
+Memento
+Observer
+State
+Strategy
+Template Method
+Visitor
+Code Examples
+C#
+C++
+Go
+Java
+PHP
+Python
+Ruby
+Rust
+Swift
+TypeScript
+Log in
+Contact us
+
+Shop Now!
+English
+Español
+Français
+日本語
+한국어
+Polski
+Português Brasileiro
+Русский
+Українська
+中文
+Contact us
+Log in
+Home
+Refactoring
+Design Patterns
+Premium Content
+Forum
+Contact us
+
+
+
+Refactoring.Guru
+Dmitry Zhart
+Terms & Conditions
+Privacy Policy
+Content Usage Policy
+About us
+Autumn SALE
+
+
+
+Refactoring
+Techniques
+Composing Methods
+Replace Temp with Query
+Your browser does not support HTML video.
+Let's see…
+Inline Method
+Move Method
+Introduce Parameter Object
+Form Template Method
+Parameterize Method
+Duplicate Code
+Long Method
+Feature Envy
+Switch Statements
+Message Chains
+Comments
+Data Class
+Inline Method
+Composing Methods
+
+Learn more…
+
+Premium Content
+Design Patterns eBook
+Refactoring Course
+Refactoring
+What is Refactoring
+Clean code
+Technical debt
+When to refactor
+How to refactor
+Catalog
+Code Smells
+Bloaters
+Long Method
+Large Class
+Primitive Obsession
+Long Parameter List
+Data Clumps
+Object-Orientation Abusers
+Switch Statements
+Temporary Field
+Refused Bequest
+Alternative Classes with Different Interfaces
+Change Preventers
+Divergent Change
+Shotgun Surgery
+Parallel Inheritance Hierarchies
+Dispensables
+Comments
+Duplicate Code
+Lazy Class
+Data Class
+Dead Code
+Speculative Generality
+Couplers
+Feature Envy
+Inappropriate Intimacy
+Message Chains
+Middle Man
+Other Smells
+Incomplete Library Class
+Refactorings
+Composing Methods
+Extract Method
+Inline Method
+Extract Variable
+Inline Temp
+Replace Temp with Query
+Split Temporary Variable
+Remove Assignments to Parameters
+Replace Method with Method Object
+Substitute Algorithm
+Moving Features between Objects
+Move Method
+Move Field
+Extract Class
+Inline Class
+Hide Delegate
+Remove Middle Man
+Introduce Foreign Method
+Introduce Local Extension
+Organizing Data
+Self Encapsulate Field
+Replace Data Value with Object
+Change Value to Reference
+Change Reference to Value
+Replace Array with Object
+Duplicate Observed Data
+Change Unidirectional Association to Bidirectional
+Change Bidirectional Association to Unidirectional
+Replace Magic Number with Symbolic Constant
+Encapsulate Field
+Encapsulate Collection
+Replace Type Code with Class
+Replace Type Code with Subclasses
+Replace Type Code with State/Strategy
+Replace Subclass with Fields
+Simplifying Conditional Expressions
+Decompose Conditional
+Consolidate Conditional Expression
+Consolidate Duplicate Conditional Fragments
+Remove Control Flag
+Replace Nested Conditional with Guard Clauses
+Replace Conditional with Polymorphism
+Introduce Null Object
+Introduce Assertion
+Simplifying Method Calls
+Rename Method
+Add Parameter
+Remove Parameter
+Separate Query from Modifier
+Parameterize Method
+Replace Parameter with Explicit Methods
+Preserve Whole Object
+Replace Parameter with Method Call
+Introduce Parameter Object
+Remove Setting Method
+Hide Method
+Replace Constructor with Factory Method
+Replace Error Code with Exception
+Replace Exception with Test
+Dealing with Generalization
+Pull Up Field
+Pull Up Method
+Pull Up Constructor Body
+Push Down Method
+Push Down Field
+Extract Subclass
+Extract Superclass
+Extract Interface
+Collapse Hierarchy
+Form Template Method
+Replace Inheritance with Delegation
+Replace Delegation with Inheritance
+Design Patterns
+What is a Pattern
+What's a design pattern?
+History of patterns
+Why should I learn patterns?
+Criticism of patterns
+Classification of patterns
+Catalog
+Creational Patterns
+Factory Method
+Abstract Factory
+Builder
+Prototype
+Singleton
+Structural Patterns
+Adapter
+Bridge
+Composite
+Decorator
+Facade
+Flyweight
+Proxy
+Behavioral Patterns
+Chain of Responsibility
+Command
+Iterator
+Mediator
+Memento
+Observer
+State
+Strategy
+Template Method
+Visitor
+Code Examples
+C#
+C++
+Go
+Java
+PHP
+Python
+Ruby
+Rust
+Swift
+TypeScript
+Log in
+Contact us
+
+Shop Now!
+English
+Español
+Français
+日本語
+한국어
+Polski
+Português Brasileiro
+Русский
+Українська
+中文
+Contact us
+Log in
+Home
+Refactoring
+Design Patterns
+Premium Content
+Forum
+Contact us
+
+
+
+Refactoring.Guru
+Dmitry Zhart
+Terms & Conditions
+Privacy Policy
+Content Usage Policy
+About us
